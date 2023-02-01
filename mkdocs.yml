@@ -1,5 +1,5 @@
-site_name: ZJP's Note
-repo_url: https://github.com/mo-xiaoxiu/myblog #（请修改为你自己的仓库地址）
+site_name: 爸比娃娃 Note
+repo_url: https://github.com/babiwawa/myblog #（请修改为你自己的仓库地址）
 edit_uri: "" #edit/main/docs/
 
 # 导航栏
@@ -194,4 +194,4 @@ plugins:
 extra:
   generator: false # 不显示 MkDocs 的版权
 
-copyright: Copyright &copy; 2020 - 2022 ZJP 
+copyright: Copyright &copy; 2020 - 2023 爸比娃娃 
